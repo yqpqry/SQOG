@@ -1,0 +1,12 @@
+Cython == 3.0.0a10
+gym[mujoco_py] == 0.23.1
+tensorboardX
+tqdm
+pyrallis
+jax == 0.4.9
+jaxlib == 0.4.9
+optax == 0.1.7
+flax == 0.7.2
+tensorflow-probability
+
+d4rl @ git+https://github.com/rail-berkeley/d4rl@master#egg=d4rl
